@@ -67,6 +67,7 @@ const DiscountForm = () => {
           Submit
         </button>
       </form>
+      <hr/>
       <pre className="my-6">{JSON.stringify(result)}</pre>
     </>
   );
