@@ -31,3 +31,10 @@ body {
     text-wrap: balance;
   }
 }
+
+
+label {
+  display: block;
+  margin-top: 1em;
+}
+
